@@ -1,8 +1,25 @@
-{{
+{
     "spec": 1,
     "name": "font family name",
     "previewText": "description",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
-           
-}}
+        "ggsans-Bold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-BoldItalic": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-ExtraBold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-Medium": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-MediumItalic": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-Normal": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-NormalItalic": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-Semibold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "NotoSans-Bold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "NotoSans-ExtraBold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "NotoSans-Medium": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "NotoSans-Normal": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "NotoSans-NormalItalic": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "NotoSans-Semibold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+        "SourceCodePro-Semibold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf"
+    }
+}
