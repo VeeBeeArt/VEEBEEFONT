@@ -3,23 +3,6 @@
     "name": "font family name",
     "previewText": "description",
     "main": {
-        "ABCGintoNord-ExtraBold": "link",
-        "ggsans-Bold": "link",
-        "ggsans-BoldItalic": "link",
-        "ggsans-ExtraBold": "link",
-        "ggsans-ExtraBoldItalic": "link",
-        "ggsans-Medium": "link",
-        "ggsans-MediumItalic": "link",
-        "ggsans-Normal": "link",
-        "ggsans-NormalItalic": "link",
-        "ggsans-Semibold": "link",
-        "ggsans-SemiboldItalic": "link",
-        "NotoSans-Bold": "link",
-        "NotoSans-ExtraBold": "link",
-        "NotoSans-Medium": "link",
-        "NotoSans-Normal": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
-        "NotoSans-NormalItalic": "link",
-        "NotoSans-Semibold": "link",
-        "SourceCodePro-Semibold": "link"
-           }
-}
+        "ABCGintoNord-ExtraBold": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+           
+}}
