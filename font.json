@@ -1,0 +1,8 @@
+{
+    "spec": 1,
+    "name": "font family name",
+    "previewText": "description",
+    "main": {
+        "Veebee-Font": "https://github.com/VeeBeeArt/VEEBEEFONT/raw/main/cute-nerd-webfont.ttf",
+           }
+}
